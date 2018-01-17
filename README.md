@@ -88,6 +88,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
+* xx: [Paris Container Day](https://paris-container-day.xebia.fr/) - France
 
 ### July
 
